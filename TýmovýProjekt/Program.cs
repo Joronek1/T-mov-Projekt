@@ -10,6 +10,9 @@ namespace TýmovýProjekt
     {
         static void Main(string[] args)
         {
+            Niemiec niemiec = new Niemiec();
+            niemiec.Jmeno = "Ivo";
+            niemiec.Prijmeni = "Niemiec";
         }
     }
 }
